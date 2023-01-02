@@ -1,4 +1,4 @@
-name: deuxiemescript
+name: deuxiemescript.yml
 on: [push]
 jobs:
   check-bats-version:
