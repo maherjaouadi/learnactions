@@ -1,5 +1,4 @@
-name : premierscript.yml
-name: premierscript
+name: deuxiemescript
 on: [push]
 jobs:
   check-bats-version:
